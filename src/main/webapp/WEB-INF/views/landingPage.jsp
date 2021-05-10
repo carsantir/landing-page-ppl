@@ -82,7 +82,7 @@ tipos de usuarios, el b√°sico y el premium, donde el premium adquiere un gran n√
     <img src="/images/bannerInversor.png" alt="bannerInversor">
     </div>
   <div class="video-responsive-inversor">
-<iframe src="https://www.youtube.com/embed/IKALBcmFx3Y" frameborder="2" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/XfPqynVFRb0" frameborder="2" allowfullscreen></iframe>
 </div>
   <a href="#section04"><span></span>Siguiente</a>
 </section>
