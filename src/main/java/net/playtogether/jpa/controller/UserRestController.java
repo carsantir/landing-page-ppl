@@ -27,7 +27,7 @@ public class UserRestController {
     	
     	List<UserLanding> usr=userRepository.findAll();
     	model.addAttribute("usr",usr);
-        return "welcome";
+        return "landingPage";
     }
     
     @RequestMapping(value="/addUser", method = RequestMethod.POST)
@@ -38,7 +38,7 @@ public class UserRestController {
         model.addAttribute("exit",exit);
     	List<UserLanding> usr=userRepository.findAll();
     	model.addAttribute("usr",usr);
-        return "welcome";
+        return "landingPage";
     }
  
 }

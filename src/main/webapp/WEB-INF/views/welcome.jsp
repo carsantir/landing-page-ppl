@@ -13,10 +13,10 @@
 <title>Playtogether</title>
 </head>
 <body>
+<img class="logoLanding" src="<s:url value="/images/logo.png" />" />
 <div class="bannerDiv">
 <img class="banner" src="/images/betisBanner.jpg">
 </div>
-<img class="logoLanding" src="<s:url value="/images/logo.png" />" />
 <h1>Descripción del proyecto</h1>
 <div class="divLandingPage">
 <p>El objetivo principal del proyecto es desarrollar un sistema de información que permita a los usuarios encontrar personas con gustos similares a estos 
