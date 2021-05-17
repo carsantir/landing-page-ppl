@@ -82,7 +82,7 @@ tipos de usuarios, el básico y el premium, donde el premium adquiere un gran n�
     <img src="/images/bannerInversor.png" alt="bannerInversor">
     </div>
   <div class="video-responsive-inversor">
-<iframe src="https://www.youtube.com/embed/XfPqynVFRb0" frameborder="2" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/nMaUsZo6EWE" frameborder="2" allowfullscreen></iframe>
 </div>
   <a href="#section04"><span></span>Siguiente</a>
 </section>
@@ -213,7 +213,7 @@ Carlos Santos Tirado como Team Manager, y un subequipo formado por 9 personas es
 	</div>	
 </div>
 <div class="posicionAplicacion">
-<button class="aplicacion" onclick="location.href ='http://playtogether-sprint3.herokuapp.com'">Acceder a la aplicación</button>	
+<button class="aplicacion" onclick="location.href ='https://playtogether-ppl.herokuapp.com/'">Acceder a la aplicación</button>	
 </div>
 </div>
 </section>
