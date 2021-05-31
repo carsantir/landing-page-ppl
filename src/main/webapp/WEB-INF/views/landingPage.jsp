@@ -72,7 +72,7 @@ tipos de usuarios, el b√°sico y el premium, donde el premium adquiere un gran n√
     <img src="/images/bannerUsuario.png" alt="bannerUsuario">
     </div>
   <div class="video-responsive">
-<iframe src="https://www.youtube.com/embed/oXUMPoCm9EE" frameborder="2" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/1SgsfQF5cYo" frameborder="2" allowfullscreen></iframe>
 </div>
   <a href="#section03"><span></span>Siguiente</a>
 </section>
@@ -82,7 +82,7 @@ tipos de usuarios, el b√°sico y el premium, donde el premium adquiere un gran n√
     <img src="/images/bannerInversor.png" alt="bannerInversor">
     </div>
   <div class="video-responsive-inversor">
-<iframe src="https://www.youtube.com/embed/nMaUsZo6EWE" frameborder="2" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Ob6f10u6xTU" frameborder="2" allowfullscreen></iframe>
 </div>
   <a href="#section04"><span></span>Siguiente</a>
 </section>
