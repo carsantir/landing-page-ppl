@@ -213,7 +213,7 @@ Carlos Santos Tirado como Team Manager, y un subequipo formado por 9 personas es
 	</div>	
 </div>
 <div class="posicionAplicacion">
-<button class="aplicacion" onclick="location.href ='https://playtogether-ppl.herokuapp.com/'">Acceder a la aplicación</button>	
+<button class="aplicacion" onclick="location.href ='https://playtogether-ispp.herokuapp.com/'">Acceder a la aplicación</button>	
 </div>
 </div>
 </section>
